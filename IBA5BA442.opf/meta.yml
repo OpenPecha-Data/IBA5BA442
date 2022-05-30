@@ -1,0 +1,63 @@
+id: IBA5BA442
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:04:32.450134'
+last_modified: '2022-05-30T22:04:32.450140'
+parser: null
+source_metadata:
+  title: Katok Situ Chökyi Gyatso Series
+  language: bo
+  description: 'Texts by and about Chökyi Gyatso (chos kyi rgya mtsho), the third
+    Katok Situ (kaḥ thog si tu, 1880–1925), nephew and spiritual heir of Jamyang Khyentse
+    Wangpo:'
+  volume:
+    fBE5F:
+      title: 'Opening the Door to a Pure Realm: An Aspiration Towards Abhirati'
+      base_file: fBE5F.txt
+      order: 1
+      parent: Aspiration Prayers
+    fD3BA:
+      title: Prayer of Aspiration Towards Sukhāvatī
+      base_file: fD3BA.txt
+      order: 2
+      parent: Aspiration Prayers
+    f88FB:
+      title: Prayer to the Gurus of the Chöd Lineage
+      base_file: f88FB.txt
+      order: 3
+      parent: Lineage Prayers
+    f597F:
+      title: The Three Types of Pilgrim
+      base_file: f597F.txt
+      order: 4
+      parent: Pilgrimage
+    fC50A:
+      title: A Short Prayer Based on the Life and Liberation of the All-Knowing, All-Seeing
+        Jamyang Khyentse Wangpo
+      base_file: fC50A.txt
+      order: 5
+      parent: Prayers
+    f800E:
+      title: A Song Recalling the Noble Guru’s Kindness
+      base_file: f800E.txt
+      order: 6
+      parent: Songs
+    fAACA:
+      title: 'Tremendous Piercing of the Heart: A Lament Recalling the Guru'
+      base_file: fAACA.txt
+      order: 7
+      parent: Songs
+    f2BEA:
+      title: 'The Swift Fulfilment of Wishes: Prayer for the Swift Appearance of the
+        Supreme Tulku of the Mañjughoṣa Guru'
+      base_file: f2BEA.txt
+      order: 8
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
